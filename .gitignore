@@ -2,7 +2,7 @@
 .DS_Store
 
 # Maven target directories
-*/target
+target
 
 # Netbeans configuration files
 */nb-configuration.xml
